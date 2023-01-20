@@ -1,8 +1,8 @@
 {
   "name": "estarlincito-st",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Estarlincito Styles is a 'css Styles' to make easy my web app.",
-  "main": "root.scss",
+  "main": "main.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

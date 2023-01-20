@@ -12,15 +12,15 @@ Estarlincito Styles is a "css Styles" to make easy my web app.
 npm i estarlincito-st --save-d
 ```
 
-## - Colors List
-
-Colors is a list of rgb color to use in your css with **val()**
-
-#### To add "Colors List" in your JSX...
+#### To add "Estarlincito Styles" in your JSX...
 
 ```jsx
-import "estarlincito-st/root.scss";
+import "estarlincito-st/main.scss";
 ```
+
+## - Colors List
+
+#### Colors is a list of rgb color to use in your css with **val()**
 
 #### Start using "Colors List" in your CSS
 
