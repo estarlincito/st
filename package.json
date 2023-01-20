@@ -1,0 +1,23 @@
+{
+  "name": "estarlincito-st",
+  "version": "1.0.1",
+  "description": "Estarlincito Styles is a 'css Styles' to make easy my web app.",
+  "main": "root.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Estarlincito Code <estarlincitoc@icloud.com> (https://estarlincito.github.io)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estarlincito/st.git"
+  },
+  "bugs": {
+    "url": "https://github.com/estarlincito/st/issues"
+  },
+  "homepage": "https://github.com/estarlincito/st#readme",
+  "devDependencies": {
+    "sass": "^1.57.1"
+  }
+}
